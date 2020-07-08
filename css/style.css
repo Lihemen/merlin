@@ -131,7 +131,7 @@
 .menu-branding .portrait {
   width: 250px;
   height: 250px;
-  background: url("../img/") center/cover no-repeat;
+  background: url("../img/gravatar.jpg") center/cover no-repeat;
   border-radius: 50%;
   border: solid 2px #3fe698;
   z-index: 10;
@@ -412,16 +412,6 @@ main#about {
   color: #fff;
 }
 
-.boxes > div:hover span i {
-  background-color: #fff;
-  color: #fff;
-}
-
-.boxes > div span i {
-  background-color: #fff;
-  color: #fff;
-}
-
 .btn, .btn-dark, .btn-light {
   display: block;
   padding: 0.5rem 1rem;
@@ -508,7 +498,7 @@ main#about {
             transform: translate3d(0, 60%, 100%);
   }
   .menu-branding .portrait {
-    background: url("../images/lihemen_sm.JPG") center/cover no-repeat;
+    background: url("../img/gravatar.jpg") center/cover no-repeat;
     width: 150px;
     height: 150px;
   }
